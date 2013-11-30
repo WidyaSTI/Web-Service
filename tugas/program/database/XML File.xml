@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<PROTIF>
+	<Peserta>
+		<No> 1 </No>
+		<Nama> Widya </Nama>	
+	</Peserta>
+	<Peserta>
+		<No> 2 </No>
+		<Nama> Rindy </Nama>
+	</Peserta>
+</PROTIF>
